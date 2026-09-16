@@ -2,8 +2,7 @@
 
 AI engineer building agents and the platforms around them. **Director of School R&D at [Leanlab Education](https://www.leanlabeducation.org/)**, where I'm the sole engineer on production software used to run edtech research studies.
 
-Before this, six years at **Spotify / Soundtrap** as the first US hire, scaling the education product to 2M+ students and teachers and carrying 30+ enterprise district accounts.
-
+Before this, six years at **Spotify / Soundtrap**
 #### What I'm building
 
 - **[JobTread Inbox Agent](https://github.com/taylorhaun/jobtread-agent-demo)** — Propose-then-approve email filing agent for a construction firm on Anthropic Managed Agents. Earned autonomy decided by the host, not the model.
