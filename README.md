@@ -1,6 +1,6 @@
 ### Hey, I'm Taylor 👋
 
-AI engineer building agents and the platforms around them. **Director of School R&D at [Leanlab Education](https://www.leanlabeducation.org/)**, where I'm the sole engineer on production software used to run edtech research studies.
+I'm building agents and the platforms around them. **Director of School R&D at [Leanlab Education](https://www.leanlabeducation.org/)**, where I'm the sole engineer on production software used to run edtech research studies.
 
 Before this, six years at **Spotify / Soundtrap**
 #### What I'm building
@@ -15,7 +15,7 @@ Before this, six years at **Spotify / Soundtrap**
 
 #### Stack
 
-TypeScript · Python · Rust · React · Next.js · Node.js · PostgreSQL (Supabase, Neon) · pgvector · Anthropic Claude + Managed Agents · OpenAI · Gemini · MCP · Tailwind
+TypeScript · Python · Rust · React · Next.js · Node.js · PostgreSQL (Supabase, Neon) · pgvector · Tailwind
 
 #### Get in touch
 
